@@ -7,7 +7,7 @@ It showcases my skills, projects, education, and contact information in a modern
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Penumalla S N L S Keerthi**, an aspiring Full Stack Developer and AI/ML student passionate about building modern, responsive, and user-friendly web applications.
+Hi, I'm **Penumalla S N L S Keerthi**, an AI/ML student passionate about building modern, responsive, and user-friendly web applications.
 
 ---
 
@@ -32,7 +32,6 @@ Hi, I'm **Penumalla S N L S Keerthi**, an aspiring Full Stack Developer and AI/M
 - HTML5
 - CSS3
 - JavaScript
-- (Optional enhancements: React, Tailwind CSS)
 
 ---
 
